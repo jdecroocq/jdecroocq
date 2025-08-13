@@ -1,5 +1,3 @@
-Hi there
-
-Passionate about CGI, with a strong interest in computer science.  
-I built my own portfolio, which led me to use GitHub and GitHub Pages:  
-[https://jdecroocq.github.io/portfolio](https://jdecroocq.github.io/portfolio)
+🫖 Hi there! I’m passionate about cinema, 3D animation, and CGI.  
+With a strong interest in computer science as well, I decided to create my own [portfolio](https://jdecroocq.github.io/portfolio).  
+That’s how I discovered GitHub and started using GitHub Pages.
